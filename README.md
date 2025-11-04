@@ -20,7 +20,7 @@ Além disso, documentei todo o passo a passo em artigos no Medium. Toda a docume
 
 
 
-- [Bug Tracking — Parte 2:]()
+- [Bug Tracking — Parte 2:](https://medium.com/@atom.free/bug-tracking-part-2-d29f08257710)
  
  
 ### 🔍 Referências: 
